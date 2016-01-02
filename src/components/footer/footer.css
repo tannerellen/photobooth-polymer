@@ -1,0 +1,11 @@
+.footer-url {
+	display: inline;
+	line-height: 130px;
+}
+.qr-code {
+	display: block;
+	max-width: 130px;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}

@@ -1,0 +1,14 @@
+{
+  "name": "photobooth",
+  "description": "Small photobooth app",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jquery.easy-pie-chart": "git://github.com/rendro/easy-pie-chart.git#~2.1.6",
+    "webrtc-adapter": "~0.2.5",
+    "polymer": "~1.2.3"
+  }
+}

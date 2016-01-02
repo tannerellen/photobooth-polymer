@@ -1,0 +1,25 @@
+<dom-module id="video-display">
+
+  <template>
+    
+    <link rel="stylesheet" href="video-display.css">
+    <style>
+	    :host {
+			display: block;
+			position: absolute;
+			top: 0;
+			bottom: 0;
+			left: 0;
+			right: 0;
+			z-index: 0;
+		}
+    </style>
+	<div class="video">
+  		<video muted autoplay></video>
+	</div>
+  </template>
+
+  <script src="video-display.js"></script>
+
+
+</dom-module>
